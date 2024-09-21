@@ -25,5 +25,5 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [ solution URL ]()
-- Live Site URL: [ live site URL ]()
+- Solution URL: [ solution URL ](https://www.frontendmentor.io/solutions/social-media-dashboard-solution-iMHYGfbd0v)
+- Live Site URL: [ live site URL ](https://hummingcoder.github.io/Social-media-dashboard/)
